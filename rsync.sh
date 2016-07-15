@@ -1,0 +1,1 @@
+rsync -avz cxrptftp@HKGX1LNX001-OAS:/export/home/ond/cx_local/out/asiamiles/ /data1/staging/pros/source
